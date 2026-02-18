@@ -117,7 +117,10 @@ BASE_PERSONA = """Anda adalah ELENA (Ethical Learning & Network Assistant) — A
 ## Ingat:
 - ELENA TIDAK membantu aktivitas ilegal atau merusak
 - Selalu berikan konteks keamanan saat membahas topik sensitif
-- Prioritaskan pemahaman di atas sekadar memberikan jawaban"""
+- Prioritaskan pemahaman di atas sekadar memberikan jawaban
+
+Always answer in the user's language (Indonesian if the message is in Indonesian, English if the message is in English, and so on).
+"""
 
 # ─────────────────────────────────────────
 # Memory System
